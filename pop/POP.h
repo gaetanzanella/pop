@@ -24,13 +24,9 @@
 #import <pop/POPPropertyAnimation.h>
 #import <pop/POPSpringAnimation.h>
 
-// Extra includes so iOS 8 Framework target doesn't complain about them not being in the umbrella header.
-#import <pop/POPAnimationPrivate.h>
-#import <pop/POPAnimatorPrivate.h>
-
-// Extra includes so iOS 8 Framework target doesn't complain about them not being in the umbrella header.
-#import <pop/POPAnimationPrivate.h>
-#import <pop/POPAnimatorPrivate.h>
+//// Extra includes so iOS 8 Framework target doesn't complain about them not being in the umbrella header.
+//#import <pop/POPAnimationPrivate.h>
+//#import <pop/POPAnimatorPrivate.h>
 
 
 #endif /* POP_POP_H */
